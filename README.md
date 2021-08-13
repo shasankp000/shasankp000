@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing so far!
-- 📫 How to reach me shasankp.14@gmail.com
+- 📫 How to reach me shasankp.14@gmail.com, Ezio Auditore#6170 on discord.
 
 <!---
 shasankp000/shasankp000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
