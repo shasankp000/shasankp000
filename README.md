@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on nothing so far!
-- 📫 How to reach me shasankp.14@gmail.com, Giyu224 #6170 on discord.
+- 📫 How to reach me shasankp.14@gmail.com
+
 
 I'm also a programmer in python with 2 years of experience in small projects, mostly.
 
