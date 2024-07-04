@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shasankp000
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on nothing so far!
 - 📫 How to reach me shasankp.14@gmail.com
 
