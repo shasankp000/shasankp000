@@ -18,6 +18,7 @@ I'm also a programmer in python,JS,C, Java with 5 years of experience in small p
 ![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)
 
 
+[![](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 shasankp000/shasankp000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
