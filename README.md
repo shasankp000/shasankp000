@@ -12,6 +12,9 @@
 🎮 Featured project: [AI Player Mod](https://github.com/shasankp000/AI-Player)  
 > A Minecraft mod with pathfinding, NLP, reflexes, self-goals, and LLM-powered conversations.  
 
+- [A free repository of free high quality custom made notes on the various subjects under Computer science](https://cse-engineering-notes.netlify.app/)
+> A website where CS students can go and learn all they want to under the various suvjects of Computer Science. These are my personal custom made notes, made by scouring from resources all over the internet.
+
 ---
 
 ### 🔧 Skills & Tools  
