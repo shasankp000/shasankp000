@@ -1,26 +1,33 @@
-- 👋 Hi, I’m @shasankp000
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on nothing so far!
-- 📫 How to reach me shasankp.14@gmail.com
+# 👋 Hi, I’m Shasank  
 
-I often forget to update my own readme so please do reach out on my email if you want to talk or know about anything of my projects!
+💡 Final-year Computer Science student | AI researcher (UoM) | Builder of experimental AI systems in games & beyond.  
 
+🚀 Current focus:  
+- 🤖 Exploring AI as companions — blending autonomy, emotion, and decision-making  
+- 🎮 Using Minecraft as a testbed for agentic AI and interactive systems  
+- 🔍 Bridging research ideas (NLP, RL, knowledge systems) with real, playful applications  
+- 🌌 Designing projects that mix creativity, logic, and a bit of imagination about the future  
+- Working on a human-brain-inspired, private AGI project — less about size, more about structure.  
 
-I'm also a programmer in python,JS,C, Java with 5 years of experience in small projects using python, mostly.
+🎮 Featured project: [AI Player Mod](https://github.com/shasankp000/AI-Player)  
+> A Minecraft mod with pathfinding, NLP, reflexes, self-goals, and LLM-powered conversations.  
 
 ---
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+### 🔧 Skills & Tools  
+- **Languages**: Java, Python, JavaScript, C, Rust  
+- **AI/ML**: NLP, RL, data mining, model training, retrieval systems  
+- **Other**: Game modding, distributed design, API integrations  
 
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+---
 
-![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)
+📫 Reach me: **shasankp.14@gmail.com**  
+🌌 I explore AI not just as tools — but as companions.  
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![Stats1](https://github-readme-stats.vercel.app/api?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
+![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)  
 
-<!---
-shasankp000/shasankp000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)  
