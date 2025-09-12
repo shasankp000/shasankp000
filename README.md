@@ -18,8 +18,8 @@
 ---
 
 ### 🔧 Skills & Tools  
-- **Languages**: Java, Python, JavaScript, C, Rust  
-- **AI/ML**: NLP, RL, data mining, model training, retrieval systems  
+- **Languages**: Java, Python, Html, CSS, JavaScript, React, Tailwind, C, Rust  
+- **AI/ML**: Machine Learning, Natural Language Processing, Reinforcement Learning, Deep Learning, AI data mining, model training, retrieval systems, Web development (not too deep really)
 - **Other**: Game modding, distributed design, API integrations  
 
 ---
