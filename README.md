@@ -7,7 +7,12 @@
 - 🎮 Using Minecraft as a testbed for agentic AI and interactive systems  
 - 🔍 Bridging research ideas (NLP, RL, knowledge systems) with real, playful applications  
 - 🌌 Designing projects that mix creativity, logic, and a bit of imagination about the future  
-- Working on a human-brain-inspired, private AGI project — less about size, more about structure.  
+- Working on a human-brain-inspired, private AGI project — less about size, more about structure.
+
+# 🧭 Vision
+Building an AI that understands humans — not by mimicry, but by shared logic and emotion.
+
+---
 
 🎮 Featured project: [AI Player Mod](https://github.com/shasankp000/AI-Player)  
 > A Minecraft mod with pathfinding, NLP, reflexes, self-goals, and LLM-powered conversations.  
