@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shasank  
 
-💡 Final-year Computer Science student | Assistant AI researcher (UoM) | Builder of experimental AI systems in games & beyond.  
+💡 Final-year Computer Science student | Assistant AI researcher (working for University of Manchester) | Builder of experimental AI systems in games & beyond.  
 
 🚀 Current focus:  
 - 🤖 Exploring AI as companions — blending autonomy, emotion, and decision-making  
