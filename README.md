@@ -44,8 +44,6 @@ I'm interested in research roles, collaborations, and conversations about AI tha
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![Stats](./github-stats.svg)
+![Top Languages](./top-langs.svg)
+![Streak](https://streak-stats.demolab.com?user=shasankp000&theme=tokyonight&hide_border=true)
