@@ -44,6 +44,5 @@ I'm interested in research roles, collaborations, and conversations about AI tha
 
 ---
 
-![Stats](./github-stats.svg)
-![Top Languages](./top-langs.svg)
+![Metrics](./github-metrics.svg)
 ![Streak](https://streak-stats.demolab.com?user=shasankp000&theme=tokyonight&hide_border=true)
