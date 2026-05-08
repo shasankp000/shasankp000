@@ -19,6 +19,15 @@ Right now I'm somewhere at the intersection of AI research and systems thinking,
 **[CSE Engineering Notes](https://cse-engineering-notes.netlify.app/)** -- A free, handcrafted note repository for CS students. Made it because the good stuff was always scattered across a dozen sources. Now it's on Obsidian Community Vaults.
 
 ---
+## Rust crates
+
+Small libraries I published 4 years ago that apparently kept finding users.
+
+- **[requests_rs](https://crates.io/crates/requests_rs)** — Python `requests`-style HTTP ergonomics for Rust · 11k+ downloads
+- **[minecraft_launcher_core](https://crates.io/crates/minecraft_launcher_core)** · 4.5k downloads
+- **[minecraft_downloader_core](https://crates.io/crates/minecraft_downloader_core)** · 10k+ downloads
+
+---
 
 ## Research & background
 
