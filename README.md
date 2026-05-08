@@ -1,41 +1,51 @@
-# 👋 Hi, I’m Shasank  
+# About Me
 
-💡 Final-year Computer Science student | Assistant AI researcher (working for University of Manchester) | Builder of experimental AI systems in games & beyond.  
+Final-year CS student at SIT (MAKAUT) · Research assistant, University of Manchester · Builder of things that probably shouldn't work but do.
 
-🚀 Current focus:  
-- 🤖 Exploring AI as companions — blending autonomy, emotion, and decision-making  
-- 🎮 Using Minecraft as a testbed for agentic AI and interactive systems  
-- 🔍 Bridging research ideas (NLP, RL, knowledge systems) with real, playful applications  
-- 🌌 Designing projects that mix creativity, logic, and a bit of imagination about the future  
-- Working on a human-brain-inspired, private AGI project — less about size, more about structure.
+I got into programming at 14 through security research -- no proper setup, just constrained hardware and too much curiosity. That spirit of figuring things out from first principles is still what drives most of what I build.
 
-# 🧭 Vision
-Building an AI that understands humans — not by mimicry, but by shared logic and emotion.
+Right now I'm somewhere at the intersection of AI research and systems thinking, trying to answer a question I find genuinely interesting: *what does it actually take for an AI to understand context the way a person does?*
 
 ---
 
-🎮 Featured project: [AI Player Mod](https://github.com/shasankp000/AI-Player)  
-> A Minecraft mod with pathfinding, NLP, reflexes, self-goals, and LLM-powered conversations.  
+## What I'm working on
 
-- [A free repository of free high quality custom made notes on the various subjects under Computer science](https://cse-engineering-notes.netlify.app/)
-> A website where CS students can go and learn all they want to under the various suvjects of Computer Science. These are my personal custom made notes, made by scouring from resources all over the internet.
+**[AI-Player](https://github.com/shasankp000/AI-Player)** -- A Minecraft mod that's less of a "bot" and more of an experiment in agentic AI. It has a dual-brain architecture: a reactive reflex system for fast decisions, and an LLM-backed reasoning layer for higher-order planning. Custom NLP pipeline (DistilBERT + CART + LIDSNet), risk-augmented Q-learning, RAG systems, multi-LLM provider support. Minecraft is a surprisingly good testbed for AI research -- open-ended, dynamic, and forgiving enough to iterate fast.
 
----
+**Lexis** -- A classical text compression system with zero training data, reaching ~2.75 bits per byte on real-world web documents. Outperforms gzip and zstd. Built on eight linguistically-structured stages including mixed-radix phonetic decomposition and factoriadic delta encoding. Paper in progress for arXiv.
 
-### 🔧 Skills & Tools  
-- **Languages**: Java, Python, Html, CSS, JavaScript, React, Tailwind, C, Rust  
-- **AI/ML**: Machine Learning, Natural Language Processing, Reinforcement Learning, Deep Learning, AI data mining, model training, retrieval systems, Web development (not too deep really)
-- **Other**: Game modding, distributed design, API integrations  
+**A new AI architecture** -- My final year project. A multi-model AI architecture designed around how the brain might actually handle knowledge -- continuous learning without catastrophic forgetting. Less about scaling up, more about getting the structure right, currently in the works.
+
+**[CSE Engineering Notes](https://cse-engineering-notes.netlify.app/)** -- A free, handcrafted note repository for CS students. Made it because the good stuff was always scattered across a dozen sources. Now it's on Obsidian Community Vaults.
 
 ---
 
-📫 Reach me: **shasankp.14@gmail.com**  
-🌌 I explore AI not just as tools — but as companions.  
+## Research & background
+
+Research assistant (remote) with the University of Manchester -- working on AI systems and agentic architectures. I've spent time on NLP pipelines, retrieval systems, reinforcement learning, and compression theory. Most of my instincts around systems design come from years of building on hardware that couldn't afford inefficiency.
 
 ---
 
-![Stats1](https://github-readme-stats.vercel.app/api?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
-![Stats3](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)  
+## Stack
 
-[![](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)  
+`Java` · `Python` · `Rust` · `C` · `JavaScript / React / Tailwind` · `HTML / CSS`
+
+ML/AI: NLP · RL · Deep Learning · RAG · Model training · Knowledge systems
+
+Other: Game modding · API integrations · Distributed design · Linux (Nobara)
+
+---
+
+## Reach me
+
+📧 shasankp.14@gmail.com
+
+I'm interested in research roles, collaborations, and conversations about AI that go deeper than the surface level.
+
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasankp000&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shasankp000&theme=tokyonight&hide_border=true)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=shasankp000&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
