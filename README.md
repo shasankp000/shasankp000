@@ -1,6 +1,6 @@
 # About Me
 
-Final-year CS student at SIT (MAKAUT) · Research assistant, University of Manchester · Builder of things that probably shouldn't work but do.
+Final-year CS student at SIT (MAKAUT) . Research assistant, University of Manchester . Builder of things that probably shouldn't work but do.
 
 I got into programming at 14 through security research -- no proper setup, just constrained hardware and too much curiosity. That spirit of figuring things out from first principles is still what drives most of what I build.
 
