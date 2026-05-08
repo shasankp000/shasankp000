@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Stats SVG
-        uses: anuraghazra/github-readme-stats@latest
+        uses: anuraghazra/github-readme-stats@master
         with:
           username: shasankp000
           count_private: true
