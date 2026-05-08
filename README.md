@@ -23,7 +23,7 @@ Right now I'm somewhere at the intersection of AI research and systems thinking,
 
 Small libraries I published 4 years ago that apparently kept finding users.
 
-- **[requests_rs](https://crates.io/crates/requests_rs)** — Python `requests`-style HTTP ergonomics for Rust · 11k+ downloads
+- **[requests_rs](https://crates.io/crates/requests_rs)** -- Python `requests`-style HTTP ergonomics for Rust · 11k+ downloads
 - **[minecraft_launcher_core](https://crates.io/crates/minecraft_launcher_core)** · 4.5k downloads
 - **[minecraft_downloader_core](https://crates.io/crates/minecraft_downloader_core)** · 10k+ downloads
 
