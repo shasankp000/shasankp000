@@ -2,32 +2,23 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # runs every 6 hours
-  workflow_dispatch:        # lets you trigger it manually too
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats SVG
-        uses: anuraghazra/github-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: shasankp000
-          count_private: true
-          show_icons: true
-          theme: tokyonight
-          hide_border: true
-        env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit updated stats
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "chore: update stats SVGs"
-          git push
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: shasankp000
+          template: classic
+          base: header, activity, community, repositories
+          output_action: commit
+          filename: github-metrics.svg
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_limit: 8
