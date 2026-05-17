@@ -2,7 +2,7 @@
 
 Final-year CS student at SIT (MAKAUT) . Research assistant, University of Manchester . Builder of things that probably shouldn't work but do.
 
-I got into programming at 14 through security research -- no proper setup, just constrained hardware and too much curiosity. That spirit of figuring things out from first principles is still what drives most of what I build.
+I got into programming at 14 through security research -- no proper setup, just constrained hardware and too much curiosity. That spirit of figuring things out from first principles is still what drives most of what I build. Most of my work has and continues to come from me being frustrated at the work done by other people or at the fact that there was a lack of some specific thing and no one bothered to work on it or fix it.
 
 Right now I'm somewhere at the intersection of AI research and systems thinking, trying to answer a question I find genuinely interesting: *what does it actually take for an AI to understand context the way a person does?*
 
