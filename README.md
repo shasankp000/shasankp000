@@ -35,6 +35,8 @@ Small libraries I published 4 years ago that apparently kept finding users.
 
 Research assistant (remote) with the University of Manchester -- working on AI systems and agentic architectures. I've spent time on NLP pipelines, retrieval systems, reinforcement learning, and compression theory. Most of my instincts around systems design come from years of building on hardware that couldn't afford inefficiency.
 
+My first research paper (completely solo): https://zenodo.org/records/20776558
+
 ---
 
 ## Stack
