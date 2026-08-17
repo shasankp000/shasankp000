@@ -43,7 +43,7 @@ My first research paper (completely solo): https://zenodo.org/records/20776558
 
 ## Stack
 
-`Java` · `Python` · `Rust` · `C` · `JavaScript / React / Tailwind` · `HTML / CSS`
+`Java` · `Python` · `Rust` · `C` · `Assembly (x86-64)` · `HTML / CSS`
 
 ML/AI: NLP · RL · Deep Learning · RAG · Model training · Knowledge systems
 
